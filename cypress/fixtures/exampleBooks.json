@@ -1,0 +1,17 @@
+[
+    {
+        "id":"f7fd563a-1ae6-46ba-8dc7-535160d0929f",
+        "name":"Refactoring: Improving the Design of Existing Code",
+        "author":"Martin Fowler"
+    },
+    {
+        "id":"672a24aa-4d8a-4f34-9c42-b8a8d2a947d0",
+        "name":"Working Effectively with Legacy Code",
+        "author":"Michael Feathers"
+    },
+    {
+        "id":"5e85d30c-38e9-4860-82e3-0a1bee613c9d",
+        "name":"Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+        "author":"Robert C. \"Uncle Bob\" Martin"
+    }
+]
